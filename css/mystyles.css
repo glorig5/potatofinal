@@ -1,0 +1,82 @@
+.nav-bar {
+	font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+	font-size: 20px;
+	text-align: right;
+}
+.nav-item {
+	list-style-type: none;
+	color: #fd7e14;
+	display: inline;
+}
+.nav-item {
+	font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+}
+h1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+	text-align: center;
+}
+
+.viz1681398612022 {
+	height: 60px;
+	width: 60px;
+	align-self: center;
+}
+.facts {
+	height: 600px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	justify-content: center;
+	border: 3px solid #73ad21;
+	padding: 10px;
+}
+.benefits-video {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border: #73ad21 3px solid;
+	padding: 10px;
+}
+.div1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+	/* text-align: center; */
+	display: flex;
+	justify-content: center;
+	background-color: #fd7e14;
+	width: 500px;
+}
+ul {
+	list-style-type: none;
+}
+h2 {
+	font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+	text-align: center;
+	background-color: #73ad21;
+    padding: 10px;
+}
+body {
+	background-image: url(/startbootstrap-personal-gh-pages/assets/markus-winkler-lHj8GaH6ZUU-unsplash.jpg);
+}
+.div2 {
+	background-color: #fd7e14;
+}
+ol {
+	font: Arial;
+	font-size: 20px;
+}
+
+#listpotatoes {
+	text-align: center;
+}
+
+.divh2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+#holdtableau {
+	width: 1000px;
+}
