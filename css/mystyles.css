@@ -53,10 +53,10 @@ h2 {
 	font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
 	text-align: center;
 	background-color: #73ad21;
-    padding: 10px;
+	padding: 10px;
 }
 body {
-	background-image: url(/startbootstrap-personal-gh-pages/assets/markus-winkler-lHj8GaH6ZUU-unsplash.jpg);
+	background-image: url(../startbootstrap-personal-gh-pages/assets/markus-winkler-lHj8GaH6ZUU-unsplash.jpg);
 }
 .div2 {
 	background-color: #fd7e14;
